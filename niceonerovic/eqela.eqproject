@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# NiceOneRovic
+#
+
+projectname: NiceOneRovic
+vendorid: com.mycompany
+mainmodule: com.mycompany.niceonerovic
